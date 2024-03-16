@@ -6,6 +6,6 @@
   </head>
   <body>
     Part of JS practice, a <B>Temperature Converter</B> was created
-    <img src="converter.png" />
+    <img src="temperatureConverter.png" />
   </body>
 </html>
